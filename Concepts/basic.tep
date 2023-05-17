@@ -1,0 +1,18 @@
+> tep::langmode = Serialize
+> tep::ext = tep-serialize
+
+inventory:
+    :
+        id: "#4152"
+        name: "Sword"
+        properties:
+            damage: 145
+            speed: 0.2f
+            price: 1000
+    :
+        id: "#1654"
+        name: "Axe"
+        properties:
+            damage: 110
+            speed: 0.7f
+            price: 780
